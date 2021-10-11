@@ -1,4 +1,4 @@
-// srajulad, Sai Rajuladevi, 10/11/2021
+// srajulad, Sai Rajuladevi
 package hw1;
 
 public class Case {
