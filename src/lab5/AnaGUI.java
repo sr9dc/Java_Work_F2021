@@ -126,7 +126,7 @@ public class AnaGUI extends Application{
 								+ String.valueOf(ag.anagramArray.length) + " anagram(s) found for " + userWord.getText());
 					}
 					else {
-						messageLabel.setText(userWord.getText() + " found in words list\n" + ""
+						messageLabel.setText(userWord.getText() + " found in words list\n"
 								+ "No anagrams found for " + userWord.getText());
 
 					}
